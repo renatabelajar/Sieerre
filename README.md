@@ -1,4 +1,3 @@
-# <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -735,7 +734,7 @@
                 </ul>
             </div>
             <div class="footer-links">
-                <h4>Newsletter</h4>
+                <h4>Kabar Harian</h4>
                 <p style="font-size: 0.8rem; margin-bottom: 15px;">Dapatkan info promo dan pola rajut gratis!</p>
                 <form onsubmit="event.preventDefault(); alert('Terima kasih telah berlangganan!');" style="display: flex; gap: 10px;">
                     <input type="email" placeholder="Email Anda" style="padding: 10px; border-radius: 10px; border: 1px solid #ddd; width: 100%;">
